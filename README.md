@@ -1,3 +1,12 @@
 # Curso Stack MERN
 
-Primera práctica utilizando HTML5, CSS3 y Git.
+## Tarea Práctica #1
+
+Proyecto desarrollado utilizando:
+
+- HTML5
+- CSS3
+- Git
+- GitHub
+
+Autor: Elmer Portillo
